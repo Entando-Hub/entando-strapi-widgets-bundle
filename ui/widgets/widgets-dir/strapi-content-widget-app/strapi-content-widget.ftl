@@ -7,4 +7,6 @@
 <@wp.currentWidget param="config" configParam="selectedTemplateId" var="configSelectedTemplateId" />
 <@wp.currentWidget param="config" configParam="selectedContentId" var="configSelectedContentId" />
 <@wp.currentWidget param="config" configParam="selectedContentName" var="configSelectedContentName" />
-<strapi-content-widget-app selectedContentName="${configSelectedContentName}" selectedTemplateId="${configSelectedTemplateId}" selectedContentId=${configSelectedContentId} />
+<@wp.currentWidget param="config" configParam="selectedContentPluralName" var="configSelectedContentPluralName" />
+<@wp.currentWidget param="config" configParam="selectedContentKind" var="configSelectedContentKind" />
+<strapi-content-widget-app selectedContentName="${configSelectedContentName}" selectedTemplateId="${configSelectedTemplateId}" selectedContentId=${configSelectedContentId} selectedContentPluralName="${configSelectedContentPluralName}" selectedContentKind="${configSelectedContentKind}" />
