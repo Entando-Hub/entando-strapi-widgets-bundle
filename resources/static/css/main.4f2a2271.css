@@ -212,90 +212,90 @@
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 300;
-  src: url(/static/media/OpenSans-Light-webfont.971285c2.eot);
+  src: url(/entando-strapi-widgets-bundle/static/media/OpenSans-Light-webfont.971285c2.eot);
   /* IE9 Compat Modes */
-  src: local("Open Sans Light"), local("OpenSans-Light"), url(/static/media/OpenSans-Light-webfont.971285c2.eot?#iefix) format("embedded-opentype"),  url(/static/media/OpenSans-Light-webfont.1ceeeef7.woff2) format("woff2"),  url(/static/media/OpenSans-Light-webfont.9eb5d85c.woff) format("woff"),  url(/static/media/OpenSans-Light-webfont.3d5923f9.ttf) format("truetype"),  url(/static/media/OpenSans-Light-webfont.f8552281.svg#OpenSans) format("svg");
+  src: local("Open Sans Light"), local("OpenSans-Light"), url(/entando-strapi-widgets-bundle/static/media/OpenSans-Light-webfont.971285c2.eot?#iefix) format("embedded-opentype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Light-webfont.1ceeeef7.woff2) format("woff2"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Light-webfont.9eb5d85c.woff) format("woff"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Light-webfont.3d5923f9.ttf) format("truetype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Light-webfont.f8552281.svg#OpenSans) format("svg");
   /* Legacy iOS */
 }
 @font-face {
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
-  src: url(/static/media/OpenSans-Regular-webfont.54540cb1.eot);
+  src: url(/entando-strapi-widgets-bundle/static/media/OpenSans-Regular-webfont.54540cb1.eot);
   /* IE9 Compat Modes */
-  src: local("Open Sans"), local("OpenSans"), url(/static/media/OpenSans-Regular-webfont.54540cb1.eot?#iefix) format("embedded-opentype"),  url(/static/media/OpenSans-Regular-webfont.4250bf1b.woff2) format("woff2"),  url(/static/media/OpenSans-Regular-webfont.58f917c3.woff) format("woff"),  url(/static/media/OpenSans-Regular-webfont.17e98b9e.ttf) format("truetype"),  url(/static/media/OpenSans-Regular-webfont.77786a1b.svg#OpenSans) format("svg");
+  src: local("Open Sans"), local("OpenSans"), url(/entando-strapi-widgets-bundle/static/media/OpenSans-Regular-webfont.54540cb1.eot?#iefix) format("embedded-opentype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Regular-webfont.4250bf1b.woff2) format("woff2"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Regular-webfont.58f917c3.woff) format("woff"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Regular-webfont.17e98b9e.ttf) format("truetype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Regular-webfont.77786a1b.svg#OpenSans) format("svg");
   /* Legacy iOS */
 }
 @font-face {
   font-family: "Open Sans";
   font-style: italic;
   font-weight: 300;
-  src: url(/static/media/OpenSans-LightItalic-webfont.7d6e2079.eot);
+  src: url(/entando-strapi-widgets-bundle/static/media/OpenSans-LightItalic-webfont.7d6e2079.eot);
   /* IE9 Compat Modes */
-  src: local("Open Sans Light Italic"), local("OpenSansLight-Italic"), url(/static/media/OpenSans-LightItalic-webfont.7d6e2079.eot?#iefix) format("embedded-opentype"),  url(/static/media/OpenSans-LightItalic-webfont.5291ef63.woff2) format("woff2"),  url(/static/media/OpenSans-LightItalic-webfont.ae3c7191.woff) format("woff"),  url(/static/media/OpenSans-LightItalic-webfont.4f712f17.ttf) format("truetype"),  url(/static/media/OpenSans-LightItalic-webfont.19e14025.svg#OpenSans) format("svg");
+  src: local("Open Sans Light Italic"), local("OpenSansLight-Italic"), url(/entando-strapi-widgets-bundle/static/media/OpenSans-LightItalic-webfont.7d6e2079.eot?#iefix) format("embedded-opentype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-LightItalic-webfont.5291ef63.woff2) format("woff2"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-LightItalic-webfont.ae3c7191.woff) format("woff"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-LightItalic-webfont.4f712f17.ttf) format("truetype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-LightItalic-webfont.19e14025.svg#OpenSans) format("svg");
   /* Legacy iOS */
 }
 @font-face {
   font-family: "Open Sans";
   font-style: italic;
   font-weight: 400;
-  src: url(/static/media/OpenSans-Italic-webfont.037d816c.eot);
+  src: url(/entando-strapi-widgets-bundle/static/media/OpenSans-Italic-webfont.037d816c.eot);
   /* IE9 Compat Modes */
-  src: local("Open Sans Italic"), local("OpenSans-Italic"), url(/static/media/OpenSans-Italic-webfont.037d816c.eot?#iefix) format("embedded-opentype"),  url(/static/media/OpenSans-Italic-webfont.bdee26cf.woff2) format("woff2"),  url(/static/media/OpenSans-Italic-webfont.8d6ddc67.woff) format("woff"),  url(/static/media/OpenSans-Italic-webfont.95855802.ttf) format("truetype"),  url(/static/media/OpenSans-Italic-webfont.b4a6cb27.svg#OpenSans) format("svg");
+  src: local("Open Sans Italic"), local("OpenSans-Italic"), url(/entando-strapi-widgets-bundle/static/media/OpenSans-Italic-webfont.037d816c.eot?#iefix) format("embedded-opentype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Italic-webfont.bdee26cf.woff2) format("woff2"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Italic-webfont.8d6ddc67.woff) format("woff"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Italic-webfont.95855802.ttf) format("truetype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Italic-webfont.b4a6cb27.svg#OpenSans) format("svg");
   /* Legacy iOS */
 }
 @font-face {
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 600;
-  src: url(/static/media/OpenSans-Semibold-webfont.81ca46fd.eot);
+  src: url(/entando-strapi-widgets-bundle/static/media/OpenSans-Semibold-webfont.81ca46fd.eot);
   /* IE9 Compat Modes */
-  src: local("Open Sans Semibold"), local("OpenSans-Semibold-webfont"), url(/static/media/OpenSans-Semibold-webfont.81ca46fd.eot?#iefix) format("embedded-opentype"),  url(/static/media/OpenSans-Semibold-webfont.5774086c.woff2) format("woff2"),  url(/static/media/OpenSans-Semibold-webfont.d356553e.woff) format("woff"),  url(/static/media/OpenSans-Semibold-webfont.029b9bc9.ttf) format("truetype"),  url(/static/media/OpenSans-Semibold-webfont.c851a4ed.svg#OpenSans) format("svg");
+  src: local("Open Sans Semibold"), local("OpenSans-Semibold-webfont"), url(/entando-strapi-widgets-bundle/static/media/OpenSans-Semibold-webfont.81ca46fd.eot?#iefix) format("embedded-opentype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Semibold-webfont.5774086c.woff2) format("woff2"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Semibold-webfont.d356553e.woff) format("woff"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Semibold-webfont.029b9bc9.ttf) format("truetype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Semibold-webfont.c851a4ed.svg#OpenSans) format("svg");
   /* Legacy iOS */
 }
 @font-face {
   font-family: "Open Sans";
   font-style: italic;
   font-weight: 600;
-  src: url(/static/media/OpenSans-SemiboldItalic-webfont.e995b3fe.eot);
+  src: url(/entando-strapi-widgets-bundle/static/media/OpenSans-SemiboldItalic-webfont.e995b3fe.eot);
   /* IE9 Compat Modes */
-  src: local("Open Sans Semibold Italic"), local("OpenSans-SemiboldItalic-webfont"), url(/static/media/OpenSans-SemiboldItalic-webfont.e995b3fe.eot?#iefix) format("embedded-opentype"),  url(/static/media/OpenSans-SemiboldItalic-webfont.664f74f6.woff2) format("woff2"),  url(/static/media/OpenSans-SemiboldItalic-webfont.9d2aafcb.woff) format("woff"),  url(/static/media/OpenSans-SemiboldItalic-webfont.2010272e.ttf) format("truetype"),  url(/static/media/OpenSans-SemiboldItalic-webfont.9ff71d97.svg#OpenSans) format("svg");
+  src: local("Open Sans Semibold Italic"), local("OpenSans-SemiboldItalic-webfont"), url(/entando-strapi-widgets-bundle/static/media/OpenSans-SemiboldItalic-webfont.e995b3fe.eot?#iefix) format("embedded-opentype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-SemiboldItalic-webfont.664f74f6.woff2) format("woff2"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-SemiboldItalic-webfont.9d2aafcb.woff) format("woff"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-SemiboldItalic-webfont.2010272e.ttf) format("truetype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-SemiboldItalic-webfont.9ff71d97.svg#OpenSans) format("svg");
   /* Legacy iOS */
 }
 @font-face {
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 700;
-  src: url(/static/media/OpenSans-Bold-webfont.af81c56a.eot);
+  src: url(/entando-strapi-widgets-bundle/static/media/OpenSans-Bold-webfont.af81c56a.eot);
   /* IE9 Compat Modes */
-  src: local("Open Sans Bold"), local("OpenSans-Bold"), url(/static/media/OpenSans-Bold-webfont.af81c56a.eot?#iefix) format("embedded-opentype"),  url(/static/media/OpenSans-Bold-webfont.aee750ca.woff2) format("woff2"),  url(/static/media/OpenSans-Bold-webfont.3fdde854.woff) format("woff"),  url(/static/media/OpenSans-Bold-webfont.043771c9.ttf) format("truetype"),  url(/static/media/OpenSans-Bold-webfont.c537d957.svg#OpenSans) format("svg");
+  src: local("Open Sans Bold"), local("OpenSans-Bold"), url(/entando-strapi-widgets-bundle/static/media/OpenSans-Bold-webfont.af81c56a.eot?#iefix) format("embedded-opentype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Bold-webfont.aee750ca.woff2) format("woff2"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Bold-webfont.3fdde854.woff) format("woff"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Bold-webfont.043771c9.ttf) format("truetype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-Bold-webfont.c537d957.svg#OpenSans) format("svg");
   /* Legacy iOS */
 }
 @font-face {
   font-family: "Open Sans";
   font-style: italic;
   font-weight: 700;
-  src: url(/static/media/OpenSans-BoldItalic-webfont.519332a0.eot);
+  src: url(/entando-strapi-widgets-bundle/static/media/OpenSans-BoldItalic-webfont.519332a0.eot);
   /* IE9 Compat Modes */
-  src: local("Open Sans Bold Italic"), local("OpenSans-BoldItalic"), url(/static/media/OpenSans-BoldItalic-webfont.519332a0.eot?#iefix) format("embedded-opentype"),  url(/static/media/OpenSans-BoldItalic-webfont.56fe9a40.woff2) format("woff2"),  url(/static/media/OpenSans-BoldItalic-webfont.a8af1562.woff) format("woff"),  url(/static/media/OpenSans-BoldItalic-webfont.1c9d53ac.ttf) format("truetype"),  url(/static/media/OpenSans-BoldItalic-webfont.0e90d4f3.svg#OpenSans) format("svg");
+  src: local("Open Sans Bold Italic"), local("OpenSans-BoldItalic"), url(/entando-strapi-widgets-bundle/static/media/OpenSans-BoldItalic-webfont.519332a0.eot?#iefix) format("embedded-opentype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-BoldItalic-webfont.56fe9a40.woff2) format("woff2"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-BoldItalic-webfont.a8af1562.woff) format("woff"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-BoldItalic-webfont.1c9d53ac.ttf) format("truetype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-BoldItalic-webfont.0e90d4f3.svg#OpenSans) format("svg");
   /* Legacy iOS */
 }
 @font-face {
   font-family: "Open Sans";
   font-style: italic;
   font-weight: 800;
-  src: url(/static/media/OpenSans-ExtraBoldItalic-webfont.b7638d5f.eot);
+  src: url(/entando-strapi-widgets-bundle/static/media/OpenSans-ExtraBoldItalic-webfont.b7638d5f.eot);
   /* IE9 Compat Modes */
-  src: local("Open Sans Extrabold Italic"), local("OpenSans-ExtraboldItalic"), url(/static/media/OpenSans-ExtraBoldItalic-webfont.b7638d5f.eot?#iefix) format("embedded-opentype"),  url(/static/media/OpenSans-ExtraBoldItalic-webfont.da204299.woff2) format("woff2"),  url(/static/media/OpenSans-ExtraBoldItalic-webfont.9f7720b4.woff) format("woff"),  url(/static/media/OpenSans-ExtraBoldItalic-webfont.834e159e.ttf) format("truetype"),  url(/static/media/OpenSans-ExtraBoldItalic-webfont.9aa1b5ca.svg#OpenSans) format("svg");
+  src: local("Open Sans Extrabold Italic"), local("OpenSans-ExtraboldItalic"), url(/entando-strapi-widgets-bundle/static/media/OpenSans-ExtraBoldItalic-webfont.b7638d5f.eot?#iefix) format("embedded-opentype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-ExtraBoldItalic-webfont.da204299.woff2) format("woff2"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-ExtraBoldItalic-webfont.9f7720b4.woff) format("woff"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-ExtraBoldItalic-webfont.834e159e.ttf) format("truetype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-ExtraBoldItalic-webfont.9aa1b5ca.svg#OpenSans) format("svg");
   /* Legacy iOS */
 }
 @font-face {
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 800;
-  src: url(/static/media/OpenSans-ExtraBold-webfont.ee6ecefd.eot);
+  src: url(/entando-strapi-widgets-bundle/static/media/OpenSans-ExtraBold-webfont.ee6ecefd.eot);
   /* IE9 Compat Modes */
-  src: local("Open Sans Extrabold"), local("OpenSans-Extrabold"), url(/static/media/OpenSans-ExtraBold-webfont.ee6ecefd.eot?#iefix) format("embedded-opentype"),  url(/static/media/OpenSans-ExtraBold-webfont.7d93642a.woff2) format("woff2"),  url(/static/media/OpenSans-ExtraBold-webfont.152b3115.woff) format("woff"),  url(/static/media/OpenSans-ExtraBold-webfont.8dafb2ac.ttf) format("truetype"),  url(/static/media/OpenSans-ExtraBold-webfont.d0218041.svg#OpenSans) format("svg");
+  src: local("Open Sans Extrabold"), local("OpenSans-Extrabold"), url(/entando-strapi-widgets-bundle/static/media/OpenSans-ExtraBold-webfont.ee6ecefd.eot?#iefix) format("embedded-opentype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-ExtraBold-webfont.7d93642a.woff2) format("woff2"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-ExtraBold-webfont.152b3115.woff) format("woff"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-ExtraBold-webfont.8dafb2ac.ttf) format("truetype"),  url(/entando-strapi-widgets-bundle/static/media/OpenSans-ExtraBold-webfont.d0218041.svg#OpenSans) format("svg");
   /* Legacy iOS */
 }
 /*!
@@ -557,8 +557,8 @@ th {
 }
 @font-face {
   font-family: "Glyphicons Halflings";
-  src: url(/static/media/glyphicons-halflings-regular.5be1347c.eot);
-  src: url(/static/media/glyphicons-halflings-regular.5be1347c.eot?#iefix) format("embedded-opentype"), url(/static/media/glyphicons-halflings-regular.be810be3.woff2) format("woff2"), url(/static/media/glyphicons-halflings-regular.82b1212e.woff) format("woff"), url(/static/media/glyphicons-halflings-regular.4692b9ec.ttf) format("truetype"), url(/static/media/glyphicons-halflings-regular.060b2710.svg#glyphicons_halflingsregular) format("svg");
+  src: url(/entando-strapi-widgets-bundle/static/media/glyphicons-halflings-regular.5be1347c.eot);
+  src: url(/entando-strapi-widgets-bundle/static/media/glyphicons-halflings-regular.5be1347c.eot?#iefix) format("embedded-opentype"), url(/entando-strapi-widgets-bundle/static/media/glyphicons-halflings-regular.be810be3.woff2) format("woff2"), url(/entando-strapi-widgets-bundle/static/media/glyphicons-halflings-regular.82b1212e.woff) format("woff"), url(/entando-strapi-widgets-bundle/static/media/glyphicons-halflings-regular.4692b9ec.ttf) format("truetype"), url(/entando-strapi-widgets-bundle/static/media/glyphicons-halflings-regular.060b2710.svg#glyphicons_halflingsregular) format("svg");
 }
 .glyphicon {
   position: relative;
@@ -6973,8 +6973,8 @@ button.close {
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url(/static/media/fontawesome-webfont.8b43027f.eot);
-  src: url(/static/media/fontawesome-webfont.8b43027f.eot?#iefix&v=4.7.0) format('embedded-opentype'), url(/static/media/fontawesome-webfont.20fd1704.woff2) format('woff2'), url(/static/media/fontawesome-webfont.f691f37e.woff) format('woff'), url(/static/media/fontawesome-webfont.1e59d233.ttf) format('truetype'), url(/static/media/fontawesome-webfont.c1e38fd9.svg#fontawesomeregular) format('svg');
+  src: url(/entando-strapi-widgets-bundle/static/media/fontawesome-webfont.8b43027f.eot);
+  src: url(/entando-strapi-widgets-bundle/static/media/fontawesome-webfont.8b43027f.eot?#iefix&v=4.7.0) format('embedded-opentype'), url(/entando-strapi-widgets-bundle/static/media/fontawesome-webfont.20fd1704.woff2) format('woff2'), url(/entando-strapi-widgets-bundle/static/media/fontawesome-webfont.f691f37e.woff) format('woff'), url(/entando-strapi-widgets-bundle/static/media/fontawesome-webfont.1e59d233.ttf) format('truetype'), url(/entando-strapi-widgets-bundle/static/media/fontawesome-webfont.c1e38fd9.svg#fontawesomeregular) format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -13012,7 +13012,7 @@ select.selectpicker {
 }
 .about-modal-pf {
   background-color: #292e34;
-  background-image: url(/static/media/bg-modal-about-pf.e9833b6d.png);
+  background-image: url(/entando-strapi-widgets-bundle/static/media/bg-modal-about-pf.e9833b6d.png);
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: 216px auto;
@@ -15141,8 +15141,8 @@ fieldset[disabled] .btn-experimental-pf.active {
 }
 @font-face {
   font-family: "PatternFlyIcons-webfont";
-  src: url(/static/media/PatternFlyIcons-webfont.2d3a7fdb.eot);
-  src: url(/static/media/PatternFlyIcons-webfont.2d3a7fdb.eot?#iefix) format("embedded-opentype"), url(/static/media/PatternFlyIcons-webfont.bbad86fb.ttf) format("truetype"), url(/static/media/PatternFlyIcons-webfont.606d73db.woff) format("woff"), url(/static/media/PatternFlyIcons-webfont.714208b1.svg#PatternFlyIcons-webfont) format("svg");
+  src: url(/entando-strapi-widgets-bundle/static/media/PatternFlyIcons-webfont.2d3a7fdb.eot);
+  src: url(/entando-strapi-widgets-bundle/static/media/PatternFlyIcons-webfont.2d3a7fdb.eot?#iefix) format("embedded-opentype"), url(/entando-strapi-widgets-bundle/static/media/PatternFlyIcons-webfont.bbad86fb.ttf) format("truetype"), url(/entando-strapi-widgets-bundle/static/media/PatternFlyIcons-webfont.606d73db.woff) format("woff"), url(/entando-strapi-widgets-bundle/static/media/PatternFlyIcons-webfont.714208b1.svg#PatternFlyIcons-webfont) format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16467,7 +16467,7 @@ a.disabled {
 }
 .login-pf {
   height: 100%;
-  background: #030303 url(/static/media/bg-login.e585f1be.jpg) repeat-x 50% 0;
+  background: #030303 url(/entando-strapi-widgets-bundle/static/media/bg-login.e585f1be.jpg) repeat-x 50% 0;
   background-size: auto;
 }
 @media (min-width: 768px) {
@@ -16505,7 +16505,7 @@ a.disabled {
   }
 }
 .login-pf body {
-  background: #030303 url(/static/media/bg-login.e585f1be.jpg) repeat-x 50% 0;
+  background: #030303 url(/entando-strapi-widgets-bundle/static/media/bg-login.e585f1be.jpg) repeat-x 50% 0;
   background-size: auto;
 }
 @media (min-width: 768px) {
